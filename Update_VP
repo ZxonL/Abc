@@ -1,5 +1,8 @@
 {
-  "version": "1.5",
-  "text": "Hello!",
-  "licence": "Licence RN (RakNet.Net) V1.0.1"
+ "version": "1.5",
+ "licence": "Licence RN (RakNet.Net) V1.0.1",
+ "links": [
+  { "caption": "Telegram", "url": "https://t.me/ZZxonL" },
+  { "caption": "Website", "url": "#" }
+ ]
 }
